@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Jobberbase
 ==========
 
@@ -63,3 +64,9 @@ For everyone who was ever involved with Jobberbase, **THANK YOU**. We're back!
 
 ENJOY!
 
+=======
+test saja dulu ya
+test dulu saja
+test lagi deh
+test lagi dung ke empat
+>>>>>>> cc45d38c408186eba5fecdd3c4a8817589eddc44
